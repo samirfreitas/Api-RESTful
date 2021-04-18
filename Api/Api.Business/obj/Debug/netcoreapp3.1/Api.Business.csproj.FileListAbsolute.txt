@@ -1,0 +1,9 @@
+D:\GIT\api-retful-dashboard\Api\Api.Business\bin\Debug\netcoreapp3.1\Api.Business.deps.json
+D:\GIT\api-retful-dashboard\Api\Api.Business\bin\Debug\netcoreapp3.1\Api.Business.dll
+D:\GIT\api-retful-dashboard\Api\Api.Business\bin\Debug\netcoreapp3.1\Api.Business.pdb
+D:\GIT\api-retful-dashboard\Api\Api.Business\obj\Debug\netcoreapp3.1\Api.Business.csprojAssemblyReference.cache
+D:\GIT\api-retful-dashboard\Api\Api.Business\obj\Debug\netcoreapp3.1\Api.Business.AssemblyInfoInputs.cache
+D:\GIT\api-retful-dashboard\Api\Api.Business\obj\Debug\netcoreapp3.1\Api.Business.AssemblyInfo.cs
+D:\GIT\api-retful-dashboard\Api\Api.Business\obj\Debug\netcoreapp3.1\Api.Business.csproj.CoreCompileInputs.cache
+D:\GIT\api-retful-dashboard\Api\Api.Business\obj\Debug\netcoreapp3.1\Api.Business.dll
+D:\GIT\api-retful-dashboard\Api\Api.Business\obj\Debug\netcoreapp3.1\Api.Business.pdb
